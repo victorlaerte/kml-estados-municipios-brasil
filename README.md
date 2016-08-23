@@ -1,10 +1,10 @@
 ## Lista de arquivos kmls
 
-Nome | Tipo | Link
------------- | ------------ | ------------- | -------------
-Paraíba | Estado e Municípios | http://target.facilit.com.br/kml/paraiba.kml
-Pernambuco | Estado e Municípios | http://target.facilit.com.br/kml/pernambuco.kml
-Rio Grande do Norte | Estado e Municípios | http://target.facilit.com.br/kml/riograndedonorte.kml
+Nome | Tipo 
+------------ | ------------ | -------------
+Paraíba | Estado e Municípios 
+Pernambuco | Estado e Municípios 
+Rio Grande do Norte | Estado e Municípios 
 
 
 feel free to contribute :kissing_heart: 
